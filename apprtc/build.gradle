@@ -41,7 +41,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.github.diginiq-team'
             artifactId = 'apprtc'
-            version = "1.0.5"
+            version = "1.0.1"
 
             pom {
                 description = 'A description of my library'
